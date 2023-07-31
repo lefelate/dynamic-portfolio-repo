@@ -1,0 +1,1 @@
+#This is a dynamic portfolio I created to build my skill
